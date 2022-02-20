@@ -10,3 +10,5 @@ export PATH=$PATH:$SBT_HOME # to make runnable
 $ source ~/.bashrc
 
 # now you just type sbt anywhere
+
+$ sbt -java-home <path/to/jdk>  # to run with another jdk
